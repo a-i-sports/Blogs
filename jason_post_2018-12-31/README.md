@@ -4,7 +4,7 @@ NFL Playoff Simulation
 This repository will simulate the 2019 NFL Playoffs.
 ----------------------------------------------------
 
-##### This is the code from my blog post for [A.I. Sports](https://aisportsfirm.com/predicting-nfl-playoffs/).
+##### This is the code from the blog post for [A.I. Sports](https://aisportsfirm.com/predicting-nfl-playoffs/).
 
 1,000,001 simulations takes some time to run. If you lower the num\_sims it will be quicker to play around with on your own.
 
