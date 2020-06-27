@@ -1,8 +1,10 @@
 
 
-# March Madness
+# Madness of March
 Predicting 2018 March Madness Basketball games
 
+
+##### This is the code from the blog post for [A.I. Sports](https://aisportsfirm.com/madness-of-march/).
 
 *** 
 
